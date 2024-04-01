@@ -23,7 +23,7 @@ function Footer() {
         </div>
       </nav>
       <p>
-        Version 4.0 - Copyright &#169; 2023 Jeffrey Chee. All Rights Reserved.
+        Version 5.0 with Next.js 14 - Copyright &#169; 2024 Jeffrey Chee. All Rights Reserved.
       </p>
     </footer>
   );
